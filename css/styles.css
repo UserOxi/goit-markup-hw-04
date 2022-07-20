@@ -436,7 +436,6 @@ ul {
   display: flex;
   flex-direction: column;
   gap: 9px;
-  margin-right: 70px;
 }
 
 .second-footer {
